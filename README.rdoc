@@ -1,0 +1,7 @@
+= Sqrl
+{<img src="https://badge.fury.io/rb/sqrl.png" alt="Gem Version" />}[https://badge.fury.io/rb/sqrl.png]
+
+This project is a Ruby on Rails implementation of Steve Gibson's SQRL ("Squirrel") Login/Authentication system.
+This engine will require libnacl to be installed on your system as a requirement of the rbnacl gem. 
+
+See the [RbNaCl Page](https://github.com/cryptosphere/rbnacl) for install links.
